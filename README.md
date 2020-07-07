@@ -1,0 +1,2 @@
+# blog
+lg's  blog
